@@ -16,3 +16,8 @@
 - 2 de choclo
 - 1 de carne
 - Manija de la programación
+
+## Mi amigo Dimitri después de meterse al Gym y que le diera positivo el antidoping
+|Antes|Ahora|
+|----|----|
+|![](Dimi_chiquito.jpeg)|![](Dimi.jpeg)|

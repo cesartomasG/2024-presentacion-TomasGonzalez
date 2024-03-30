@@ -1,4 +1,4 @@
-# Breve descripicón de mi persona
+# Breve descripción de mi persona
 - mido un metro setenta (justo)
 - 20 años
 - Técnico en computación
